@@ -1,3 +1,5 @@
+
+https://github.com/user-attachments/assets/c13a8237-8a1d-4003-9eb7-2092d58ee686
 ## Real-World Interaction Systems with BITalino
 
 
@@ -18,6 +20,13 @@ https://github.com/user-attachments/assets/75693e20-819d-44a5-919e-fed72749256f
 
 ## Games
 
+### Running Jump Game with EMG Hand flexing/streching Ratio detection
+
+<img width="1410" height="787" alt="Screenshot from 2025-10-27 17-54-59" src="https://github.com/user-attachments/assets/ff25f82d-74ea-4b63-8db0-9ef647e00159" />
+
+https://github.com/user-attachments/assets/2f1dfaeb-f215-481b-a974-ca4d4eb56793
+
+
 ### EEG Signal Brain Waves (Alpha, Betta, Gamma and Power Ratio)
 Connect EEG to port A0. Place the two main nodes on your forehead 2cm apart and the neutral one (white) on the bone behind the ear.
 <img width="800" height="1548" alt="Screenshot from 2025-10-26 18-51-02" src="https://github.com/user-attachments/assets/9ec158c0-adda-406d-a046-273faf3d56b8" />
@@ -25,11 +34,6 @@ Connect EEG to port A0. Place the two main nodes on your forehead 2cm apart and 
 
 ### Flappy Bird Game With EEG Signal (Blink Detection)
 <img width="800" alt="Screenshot from 2025-10-26 18-52-28" src="https://github.com/user-attachments/assets/ce5e9bb6-9a25-4d85-a63b-d0dbaf229934" />
-
-
-### Running Jump Game with EMG Hand flexing/streching Ratio detection
-
-<img width="1410" height="787" alt="Screenshot from 2025-10-27 17-54-59" src="https://github.com/user-attachments/assets/ff25f82d-74ea-4b63-8db0-9ef647e00159" />
 
 
 ### Old Rock Paper Scissors Detection with KNN
