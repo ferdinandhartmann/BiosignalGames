@@ -1,5 +1,3 @@
-
-https://github.com/user-attachments/assets/c13a8237-8a1d-4003-9eb7-2092d58ee686
 ## Real-World Interaction Systems with BITalino
 
 
